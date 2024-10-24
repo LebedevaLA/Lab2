@@ -1,0 +1,11 @@
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\Анастасия\source\repos\Lab_2\Lab_2\obj\Debug\Lab_2.Form2.resources
